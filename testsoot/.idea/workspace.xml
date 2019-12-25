@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7f3f880-78af-43b3-a203-1f7b050c8b1b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SP6Qe3m9ocx0Gc7wxBsfOhVNBR" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571361014864" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Basic" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAProject\testsoot\testsoot\src\Basic" />
+      <recent name="E:\test\testsoot\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StartGenerateClassAnalyse">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Main" />
+      <module name="testsoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartGenerateClassAnalyse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.StartGenerateClassAnalyse" />
+      <module name="testsoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.test" />
+      <module name="testsoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.test2" />
+      <module name="testsoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.test2" />
+      <item itemvalue="Application.StartGenerateClassAnalyse" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartGenerateClassAnalyse" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7f3f880-78af-43b3-a203-1f7b050c8b1b" name="Default Changelist" comment="" />
+      <created>1561520457465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561520457465</updated>
+      <workItem from="1561520468102" duration="4458000" />
+      <workItem from="1561622274922" duration="4223000" />
+      <workItem from="1561688446087" duration="549000" />
+      <workItem from="1562289575926" duration="3403000" />
+      <workItem from="1562505187149" duration="3438000" />
+      <workItem from="1562513920311" duration="1975000" />
+      <workItem from="1562548193290" duration="8715000" />
+      <workItem from="1562652032242" duration="175000" />
+      <workItem from="1562663272233" duration="8463000" />
+      <workItem from="1562677781533" duration="823000" />
+      <workItem from="1562720362945" duration="13521000" />
+      <workItem from="1563412754708" duration="12089000" />
+      <workItem from="1563502016061" duration="3627000" />
+      <workItem from="1563525116246" duration="1077000" />
+      <workItem from="1563588700033" duration="740000" />
+      <workItem from="1563773778256" duration="2342000" />
+      <workItem from="1563850100346" duration="4934000" />
+      <workItem from="1563932574594" duration="1380000" />
+      <workItem from="1567992820052" duration="1230000" />
+      <workItem from="1569289594033" duration="370000" />
+      <workItem from="1569402809889" duration="1146000" />
+      <workItem from="1569552054392" duration="1785000" />
+      <workItem from="1569718164312" duration="2276000" />
+      <workItem from="1570497953365" duration="24514000" />
+      <workItem from="1570764988501" duration="11711000" />
+      <workItem from="1571016301085" duration="589000" />
+      <workItem from="1571187948185" duration="13646000" />
+      <workItem from="1571452873724" duration="7450000" />
+      <workItem from="1571532837365" duration="985000" />
+      <workItem from="1571648919996" duration="3444000" />
+      <workItem from="1571795607359" duration="9191000" />
+      <workItem from="1571913120043" duration="562000" />
+      <workItem from="1572597533193" duration="5151000" />
+      <workItem from="1572953903498" duration="5701000" />
+      <workItem from="1574608970546" duration="2405000" />
+      <workItem from="1574643573463" duration="9452000" />
+      <workItem from="1574697993110" duration="665000" />
+      <workItem from="1574756301943" duration="688000" />
+      <workItem from="1574783024819" duration="2602000" />
+      <workItem from="1574820016277" duration="1292000" />
+      <workItem from="1574918072785" duration="4245000" />
+      <workItem from="1576139019146" duration="1602000" />
+      <workItem from="1577096815653" duration="355000" />
+      <workItem from="1577101963087" duration="4475000" />
+      <workItem from="1577108429872" duration="307000" />
+      <workItem from="1577238369851" duration="267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
